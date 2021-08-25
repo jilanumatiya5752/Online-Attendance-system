@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568896923606",
+    "project_id": "online-attendance-system-bd80e",
+    "storage_bucket": "online-attendance-system-bd80e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568896923606:android:dc560bf39044995f4e2677",
+        "android_client_info": {
+          "package_name": "com.example.onlineattendancesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568896923606-dgdjhec9552cp3k2s9sfgicfrp09ecab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjSOCyxYis2YyBB7XMsqMwyXbGxr2-oHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568896923606-dgdjhec9552cp3k2s9sfgicfrp09ecab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Online Attendance system</string>
+    <string name="action_settings">SETTINGS</string>
+    <string name="menu_home">MENU</string>
+    <string name="menu_gallery">GALLERY</string>
+    <string name="menu_slideshow">SLIDE_SHOW</string>
+    <string name="menu_tools">TOOLS</string>
+    <string name="menu_share">SHARE</string>
+    <string name="menu_send">SEND</string>
+    <string name="nav_header_desc">header</string>
+    <string name="nav_header_title">title</string>
+    <string name="nav_header_subtitle">subtitle</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close">navigation</string>
+</resources>
